@@ -1,0 +1,7 @@
+.top-nav{margin-top: -24px;}
+.mega-menu{width:800px;overflow:hidden;padding:10px}
+   .mega-menu a{text-decoration:none}
+   .dropdown-menu{top:115%}
+   .navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+}
